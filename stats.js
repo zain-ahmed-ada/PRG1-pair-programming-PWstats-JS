@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-const inputFile = "10000-most-common-passwords.csv";
+const inputFile = "10000-common-passwords.csv";
 const outputFile = "statistics.csv";
 const delimiter = ",";
 
