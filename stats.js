@@ -14,7 +14,7 @@ function processData() {
   const data = fs.readFileSync(inputFile, "utf-8");
   const lines = data.split(/\n/);
 
-  for (line of lines) {
+  for (let line of lines) {
     elements = line.split(delimiter);
     console.log(elements);
   }
