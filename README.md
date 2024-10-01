@@ -1,7 +1,6 @@
 # PRG1-pair-programming-PWstats
 
 1. Take your time to read and understand the code. Explain lines in turn to your partner.
-This program is unfinished. Can you count the length of each of the 10000 passwords and keep a running total which is displayed at the end?
 
 2. Count the number of occurrences of the different lengths of the 10000 passwords and store the results in the outputFile (statistics.csv). Here’s a sample output that you are aiming for:
 
